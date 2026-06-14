@@ -1284,7 +1284,7 @@ body {
 
 .verse span {
   font-size: clamp(0.9rem, 1.2vw, 1.1rem);
-  color: #ccef34;
+  color: #ddded8;
   letter-spacing: 1px;
 }
 
